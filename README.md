@@ -1,14 +1,14 @@
 Reactjs : 
-    >Tv Show lists 
-    >API query
-    >All TV show list column
-    >Favorite list column
-    >Drag n drop from TV show list column to Favorites list column.  
-    >Search All TvShow Column 
-    >Filter Favorites Column
-    >Favorites Column validation
+    >Tv Show lists <br />
+    >API query <br />
+    >All TV show list column<br />
+    >Favorite list column<br />
+    >Drag n drop from TV show list column to Favorites list column.  <br />
+    >Search All TvShow Column <br />
+    >Filter Favorites Column<br />
+    >Favorites Column validation<br />
 
-Instructions
-1.Serve index.html in your local server. 
-2.See screenshot
-3.See the code 
+Instructions<br />
+1.Serve index.html in your local server. <br />
+2.See screenshot<br />
+3.See the code <br />
