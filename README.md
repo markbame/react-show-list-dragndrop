@@ -1,4 +1,12 @@
-Reacttj : Tv Show lists, with api query, all list , favorite list and drag n drop made with react.  
+Reactjs : 
+    >Tv Show lists 
+    >API query
+    >All TV show list column
+    >Favorite list column
+    >Drag n drop from TV show list column to Favorites list column.  
+    >Search All TvShow Column 
+    >Filter Favorites Column
+    >Favorites Column validation
 
 Instructions
 1.Serve index.html in your local server. 
